@@ -1,9 +1,9 @@
 # Hi, I'm Ratnapradeep 👋
 
 🎓 Computer Science Engineer  
-🧪 Experience as SDET (Software Development Engineer in Test)  
+🧪 Former SDET (Software Development Engineer in Test)  
 🔬 Nanotechnology Student – JNTUA  
-🚀 Focused on Distributed Systems, Kubernetes, and ML Workflow Infrastructure  
+🚀 Focused on Distributed ML Systems, Kubernetes Control Planes, and Workflow Orchestration Infrastructure  
 
 ---
 
@@ -11,8 +11,8 @@
 
 - Kubernetes & Argo Workflows  
 - Kubeflow Pipelines Architecture  
-- React & TypeScript  
 - Go Backend Systems  
+- React & TypeScript  
 - Testing & Debugging Infrastructure  
 - Developer Experience (DX) Improvements  
 
@@ -21,24 +21,24 @@
 ## 🔍 Current Focus
 
 - Studying Kubeflow Pipelines end-to-end architecture  
-- Improving debugging workflows in ML systems  
-- Exploring structured error classification systems  
-- Contributing to large-scale open-source platforms  
+- Analyzing backend–frontend interaction in distributed ML systems  
+- Improving debugging workflows and failure visibility  
+- Exploring structured error classification mechanisms  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
+### Languages
 Python · Go · Java · TypeScript  
 
-**Infrastructure:**  
+### Infrastructure
 Kubernetes · Docker · Argo Workflows · MySQL  
 
-**Frontend:**  
+### Frontend
 React · Material UI  
 
-**Testing:**  
+### Testing
 Selenium · Automation Framework Design  
 
 ---
@@ -46,9 +46,3 @@ Selenium · Automation Framework Design
 ## 🎯 Goal
 
 To contribute to large-scale open-source systems by improving reliability, observability, and debugging experience in distributed ML platforms.
-
----
-
-## 📌 GitHub
-
-🔗 https://github.com/Ratnapradeep
