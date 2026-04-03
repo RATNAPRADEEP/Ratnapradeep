@@ -68,24 +68,13 @@
 
 ---
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RATNAPRADEEP&theme=tokyonight" />
-</p>
 
----
+## 📊 GitHub Highlights
+- 🔥 85+ Contributions  
+- 🔀 Active Pull Requests in Kubeflow Pipelines  
+- 🐛 Fixed real-world frontend bugs (loading spinner issue)  
+- 📈 Consistent contribution streak  
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RATNAPRADEEP&show_icons=true&theme=tokyonight&v=1" />
-</p>
-
----
-
-## 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATNAPRADEEP&layout=compact&theme=tokyonight&v=1" />
-</p>
 ---
 
 ## 🌐 Connect with me 🌍
