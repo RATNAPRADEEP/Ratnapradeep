@@ -1,11 +1,19 @@
 <h1 align="center">Hi, I'm Ratnapradeep 👋</h1>
+<h3 align="center">🚀 Open Source Contributor | 💻 Full Stack Developer | 🧪 Nanotechnology Student</h3>
+
+<p align="center">
+  <a href="https://github.com/RATNAPRADEEP">
+    <img src="https://komarev.com/ghpvc/?username=RATNAPRADEEP&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About me ⭐
 - 💻 Computer Science Engineer (2022 Graduate)  
+- 🧪 Nanotechnology Student  
 - 🔧 Full Stack Developer  
-- 🧪 Former SDET  
+- 🔬 Former SDET  
 - 🚀 Open Source Contributor (Kubeflow Pipelines)  
 - 🎯 Focused on Distributed ML Systems, Kubernetes, and Workflow Orchestration  
 
@@ -30,22 +38,46 @@
 ---
 
 ## 🛠️ Tech Stack
-Python · Go · JavaScript · TypeScript  
-Kubernetes · Docker · Argo Workflows · MySQL  
-React · Material UI  
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,js,ts" />
+</p>
+
+### Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,mysql" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+</p>
 
 ---
 
 ## 🚀 Open Source Contributions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RATNAPRADEEP&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
+- Contributor to Kubeflow Pipelines  
+- Fixed frontend loading spinner issue in RunDetails  
+- Focused on clean PRs (no unrelated changes)  
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RATNAPRADEEP&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RATNAPRADEEP&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -57,17 +89,20 @@ React · Material UI
 
 ---
 
-## 🔀 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 🧠 Coding Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RATNAPRADEEP&theme=tokyo-night" />
+</p>
 
 ---
 
-## 🌐 Let's connect 🌍
-- GitHub: https://github.com/RATNAPRADEEP  
-- LinkedIn: https://linkedin.com/in/papanaratnapradeepreddy  
+## 🌐 Connect with me 🌍
+<p>
+  <a href="https://github.com/RATNAPRADEEP">GitHub</a> •
+  <a href="https://linkedin.com/in/papanaratnapradeepreddy">LinkedIn</a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-- I focus on solving real-world problems rather than just theory
+- I focus on solving real-world problems instead of just theory
