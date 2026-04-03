@@ -77,23 +77,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RATNAPRADEEP&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RATNAPRADEEP&show_icons=true&theme=tokyonight&v=1" />
 </p>
 
 ---
 
 ## 📊 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATNAPRADEEP&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATNAPRADEEP&layout=compact&theme=tokyonight&v=1" />
 </p>
-
----
-
-## 🧠 Coding Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RATNAPRADEEP&theme=tokyo-night" />
-</p>
-
 ---
 
 ## 🌐 Connect with me 🌍
