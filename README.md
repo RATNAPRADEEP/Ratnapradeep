@@ -1,17 +1,19 @@
-# Hi, I'm Ratnapradeep 👋
+<h1 align="center">Hi, I'm Ratnapradeep 👋</h1>
 
-🎓 Computer Science Engineer  
-🧪 Former SDET (Software Development Engineer in Test)  
-🔬 Nanotechnology Student – JNTUA  
-🚀 Focused on Distributed ML Systems, Kubernetes Control Planes, and Workflow Orchestration Infrastructure  
+---
+
+## 👨‍💻 About me ⭐
+- 💻 Computer Science Engineer  
+- 🔧 Full Stack Developer  
+- 🚀 Open Source Contributor (Kubeflow Pipelines)  
+- 🎯 Focused on Distributed ML Systems, Kubernetes Control Planes, and Workflow Orchestration  
 
 ---
 
 ## 🧠 Technical Interests
-
 - Kubernetes & Argo Workflows  
 - Kubeflow Pipelines Architecture  
-- Go Backend Systems  
+- Backend Systems & APIs  
 - React & TypeScript  
 - Testing & Debugging Infrastructure  
 - Developer Experience (DX) Improvements  
@@ -19,18 +21,17 @@
 ---
 
 ## 🔍 Current Focus
-
 - Studying Kubeflow Pipelines end-to-end architecture  
-- Analyzing backend–frontend interaction in distributed ML systems  
+- Fixing frontend issues (loading spinner & data fetching bugs)  
+- Understanding backend ↔ frontend interaction in distributed ML systems  
 - Improving debugging workflows and failure visibility  
-- Exploring structured error classification mechanisms  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-Python · Go · Java · TypeScript  
+Python · Go · JavaScript · TypeScript  
 
 ### Infrastructure
 Kubernetes · Docker · Argo Workflows · MySQL  
@@ -44,5 +45,49 @@ Selenium · Automation Framework Design
 ---
 
 ## 🎯 Goal
-
 To contribute to large-scale open-source systems by improving reliability, observability, and debugging experience in distributed ML platforms.
+
+---
+
+## 📌 Pinned Projects
+- 🔹 Kubeflow Pipelines (Fork) – Fixing frontend issues and improving loading logic  
+- 🔹 Kubeflow UI Error Analysis – Frontend system for analyzing UI issues  
+
+---
+
+## 📊 Contribution Activity
+- Active contributor in Kubeflow ecosystem  
+- Created PRs fixing real production-level bugs  
+- Focused on clean contributions (minimal diff, no unrelated changes)  
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RATNAPRADEEP&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RATNAPRADEEP&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATNAPRADEEP&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Let's connect 🌍
+- GitHub: https://github.com/RATNAPRADEEP  
+- LinkedIn: (add your link)
+
+---
+
+## ⚡ Fun Fact
+- I focus on solving real-world problems rather than just theoretical learning
