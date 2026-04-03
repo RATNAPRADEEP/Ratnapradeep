@@ -5,7 +5,7 @@
 ## 👨‍💻 About me ⭐
 - 💻 Computer Science Engineer (2022 Graduate)  
 - 🔧 Full Stack Developer  
-- 🧪 Former SDET (Software Development Engineer in Test)  
+- 🧪 Former SDET  
 - 🚀 Open Source Contributor (Kubeflow Pipelines)  
 - 🎯 Focused on Distributed ML Systems, Kubernetes, and Workflow Orchestration  
 
@@ -22,65 +22,44 @@
 ---
 
 ## 🔍 Current Focus
-- Studying Kubeflow Pipelines end-to-end architecture  
-- Fixing frontend issues (loading spinner & data fetching bugs)  
-- Understanding backend ↔ frontend interaction in distributed ML systems  
-- Improving debugging workflows and failure visibility  
+- Studying Kubeflow Pipelines architecture  
+- Fixing frontend issues (loading spinner & data bugs)  
+- Understanding backend ↔ frontend interaction  
+- Improving debugging workflows  
 
 ---
 
 ## 🛠️ Tech Stack
-
-### Languages
 Python · Go · JavaScript · TypeScript  
-
-### Infrastructure
 Kubernetes · Docker · Argo Workflows · MySQL  
-
-### Frontend
 React · Material UI  
 
-### Testing
-Selenium · Automation Framework Design  
-
 ---
 
-## 🎯 Goal
-To contribute to large-scale open-source systems by improving reliability, observability, and debugging experience in distributed ML platforms.
-
----
-
-## 📌 Pinned Projects
-- 🔹 Kubeflow Pipelines (Fork) – Fixing frontend issues and improving loading logic  
-- 🔹 Kubeflow UI Error Analysis – Frontend system for analyzing UI issues  
-
----
-
-## 📊 Contribution Activity
-- Active contributor in Kubeflow ecosystem  
-- Created PRs fixing real production-level bugs  
-- Focused on clean contributions (minimal diff, no unrelated changes)  
-
----
-
-## 📈 GitHub Stats
+## 🚀 Open Source Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RATNAPRADEEP&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RATNAPRADEEP&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RATNAPRADEEP&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=RATNAPRADEEP&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📊 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATNAPRADEEP&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATNAPRADEEP&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🔀 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -91,4 +70,4 @@ To contribute to large-scale open-source systems by improving reliability, obser
 ---
 
 ## ⚡ Fun Fact
-- I focus on solving real-world problems rather than just theoretical learning
+- I focus on solving real-world problems rather than just theory
