@@ -19,37 +19,18 @@
 - 💡 Recognized by maintainers
 - ✅ Contribution carried forward into final merged solution
 
-🔗 Original PR: https://github.com/kubeflow/pipelines/pull/13199
-🔗 Final Merged PR: https://github.com/kubeflow/pipelines/pull/13212
+- 🔗 Original PR: https://github.com/kubeflow/pipelines/pull/13199
+- 🔗 Final Merged PR: https://github.com/kubeflow/pipelines/pull/13212
 ---
 
 ## 👨‍💻 About me ⭐
-- 💻 Computer Science Engineer (2022 Graduate)  
+- 💻 Computer Science Engineer Graduate  
 - 🧪 Nanotechnology Student  
 - 🔧 Full Stack Developer  
 - 🔬 Former SDET  
-- 🚀 Open Source Contributor (Kubeflow Pipelines)  
-- 🎯 Focused on Distributed ML Systems, Kubernetes, and Workflow Orchestration  
 
 ---
 
-## 🧠 Technical Interests
-- Kubernetes & Argo Workflows  
-- Kubeflow Pipelines Architecture  
-- Backend Systems & APIs  
-- React & TypeScript  
-- Testing & Debugging Infrastructure  
-- Developer Experience (DX) Improvements  
-
----
-
-## 🔍 Current Focus
-- Studying Kubeflow Pipelines architecture  
-- Fixing frontend issues (loading spinner & data bugs)  
-- Understanding backend ↔ frontend interaction  
-- Improving debugging workflows  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -75,23 +56,32 @@
 
 ---
 
-## 🚀 Open Source Contributions
-- Contributor to Kubeflow Pipelines  
-- Fixed frontend loading spinner issue in RunDetails  
-- Focused on clean PRs (no unrelated changes)  
+
+## 🧠 Technical Interests
+- Kubernetes & Argo Workflows  
+- Kubeflow Pipelines Architecture  
+- Backend Systems & APIs  
+- React & TypeScript  
+- Testing & Debugging Infrastructure  
+- Developer Experience (DX) Improvements  
 
 ---
 
+## 🔍 Current Focus
+- Writing clean, minimal, production-ready code
+- Contributing to impactful open source projects
+- Improving developer workflows using AI tools
+  
+---
 
-## 📊 GitHub Highlights
-- 🔥 85+ Contributions  
-- 🔀 Active Pull Requests in Kubeflow Pipelines  
-- 🐛 Fixed real-world frontend bugs (loading spinner issue)  
-- 📈 Consistent contribution streak  
+## 🎯 Current Goal
+
+🚀 Land impactful PRs in top OSS projects (Kubeflow, etc.)
+🚀 Grow into a strong Software Engineer role 
 
 ---
 
-## 🌐 Connect with me 🌍
+## 📫 Connect With Me
 <p>
   <a href="https://github.com/RATNAPRADEEP">GitHub</a> •
   <a href="https://linkedin.com/in/papanaratnapradeepreddy">LinkedIn</a>
@@ -99,5 +89,4 @@
 
 ---
 
-## ⚡ Fun Fact
-- I focus on solving real-world problems instead of just theory
+## ⭐ Always learning. Always building. Always improving.
