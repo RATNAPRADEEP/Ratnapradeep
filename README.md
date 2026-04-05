@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Papana Ratnapradeep Reddy 👋</h1>
-<h3 align="center">🚀 Open Source Contributor | 💻 Full Stack Developer | 🧪 Nanotechnology Student</h3>
+<h3 align="center">🚀 Open Source Contributor | 💻 Full Stack Developer, CS Graduate  | 🧪 Nanotechnology Student</h3>
 
 <p align="center">
   <a href="https://github.com/RATNAPRADEEP">
@@ -9,7 +9,7 @@
 
 ---
 
-🚀 Open Source Contributions
+🚀 Open Source Contributions 
 
 🌟 Kubeflow Pipelines (Google OSS)
 
@@ -76,12 +76,12 @@
 
 ## 🎯 Current Goal
 
-🚀 Land impactful PRs in top OSS projects (Kubeflow, etc.)
-🚀 Grow into a strong Software Engineer role 
+-🚀 Land impactful PRs in top OSS projects (Kubeflow, etc.)
+-🚀 Grow into a strong Software Engineer role 
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me 
 <p>
   <a href="https://github.com/RATNAPRADEEP">GitHub</a> •
   <a href="https://linkedin.com/in/papanaratnapradeepreddy">LinkedIn</a>
@@ -89,4 +89,4 @@
 
 ---
 
-## ⭐ Always learning. Always building. Always improving.
+##  ⭐ Always learning. Always building. Always improving.
