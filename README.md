@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Papana Ratnapradeep Reddy 👋</h1>
-<h3 align="center">🚀 Open Source Contributor | 💻 Full Stack Developer, CS Graduate  | 🧪 Nanotechnology Student</h3>
+<h3 align="center">🚀 Open Source Contributor | 💻 Full Stack Developer, CS Graduate, Ex-SDET  | 🧪 Nanotechnology Student</h3>
 
 <p align="center">
   <a href="https://github.com/RATNAPRADEEP">
@@ -9,9 +9,7 @@
 
 ---
 
-🚀 Open Source Contributions 
-
-🌟 Kubeflow Pipelines (Google OSS)
+# 🌟 Kubeflow Pipelines (Google OSS) 
 
 - Contributed to improving RunDetails loading UX
 - Identified issue with spinner behavior during template refetch
@@ -22,15 +20,6 @@
 - 🔗 Original PR: https://github.com/kubeflow/pipelines/pull/13199
 - 🔗 Final Merged PR: https://github.com/kubeflow/pipelines/pull/13212
 ---
-
-## 👨‍💻 About me ⭐
-- 💻 Computer Science Engineer Graduate  
-- 🧪 Nanotechnology Student  
-- 🔧 Full Stack Developer  
-- 🔬 Former SDET  
-
----
-
 
 ## 🛠️ Tech Stack
 
