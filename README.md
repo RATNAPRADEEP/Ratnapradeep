@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Papana Ratnapradeep Reddy 👋</h1>
-<h3 align="center">🚀 Open Source Contributor | 💻 Full Stack Developer, CS Graduate, Ex-SDET  | 🧪 Nanotechnology Student</h3>
+<h3 align="center">🚀 Open Source Contributor | 💻 Full Stack Developer, CS Graduate, Ex-SDET  |  Nanotechnology Student</h3>
 
 <p align="center">
   <a href="https://github.com/RATNAPRADEEP">
